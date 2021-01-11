@@ -1,0 +1,1 @@
+This repository is about my classes in my algorithm course. Here I will put all the programming logic exercises that I studied using the Brazilian software, Visualg30.
